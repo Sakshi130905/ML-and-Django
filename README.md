@@ -1,3 +1,9 @@
+![output1](https://github.com/user-attachments/assets/5403a45a-a3d7-4b1e-b92d-e5539d208041)
+![output2](https://github.com/user-attachments/assets/953b8f3a-13e5-4901-a6c9-e8f0d33c8da2)
+![output3](https://github.com/user-attachments/assets/2ea50b6a-3586-4895-8190-6b0e9129dfa2)
+
+
+
 # This is a Django Project where we built Full Stack Application which we will classify radiation with SVM
 
 BugsOut Systems – Radiation Intelligence Platform
